@@ -79,7 +79,7 @@ The interface is quite straightforward and user-friendly. After launching the ap
 
 Here's a snapshot of what the web app interface looks like:
 
-![Web App Interface](WebAppPic.png)
+![Web App Interface](Screenshot.png)
 
 The web app is designed to process the uploaded images according to the input requirements of the model. It resizes the image, scales pixel values, and expands the image's dimensions before passing the image to the model for breed prediction. The model then returns the breed that received the highest score in the prediction.
 
